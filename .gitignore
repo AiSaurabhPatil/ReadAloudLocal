@@ -1,0 +1,7 @@
+__pycache__/
+*.wav
+*.pyc
+.vscode/
+.idea/
+supertonic/
+output_*.wav
